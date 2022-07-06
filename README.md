@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=threeplef)]([벨로그링크](https://velog.io/@threeplef/Youtube-UI-%EA%B5%AC%EC%84%B1))
+
 <!--
 **threeplef/threeplef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
