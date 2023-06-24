@@ -7,7 +7,8 @@
   ### Contact Me!
   📧 onlynforever@gmail.com
   
-  <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthreeplef&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+  <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthreeplef&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlazheld)](https://solved.ac/rlazheld)
 
   ### Blog
   <a href="https://threeplef.github.io"><img src="https://img.shields.io/badge/threeplef.github.io-E6526F?style=flat-square&logo=ameba&logoColor=white"/></a>
